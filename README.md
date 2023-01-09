@@ -1,6 +1,15 @@
 PocketBase JavaScript SDK
 ======================================================================
 
+# ATTENTION
+
+I made this fork just to apply this simple hack to make it work on remix.
+I initially made the reference in the commit, but it was starting to become noisy on the original issue on each rebase.
+So I will leave the issue url here instead.
+https://github.com/pocketbase/js-sdk/issues/34#issuecomment-1364348123
+
+---
+
 Official JavaScript SDK (browser and node) for interacting with the [PocketBase API](https://pocketbase.io/docs).
 
 - [Installation](#installation)

@@ -9,7 +9,7 @@
         "url": "git://github.com/pocketbase/js-sdk.git"
     },
     "exports": {
-        ".": "./dist/pocketbase.es.mjs",
+        ".": "./dist/pocketbase.cjs.js",
         "./cjs": "./dist/pocketbase.cjs.js",
         "./umd": "./dist/pocketbase.umd.js"
     },
